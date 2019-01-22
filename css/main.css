@@ -1,0 +1,42 @@
+body {
+  margin: 0px;
+}
+
+p {
+  font-size: 15px;
+  font-family: sans-serif;
+
+}
+
+h1 {
+  font-size: 70px;
+  margin: 100px 0px;
+}
+
+h2 {
+  font-size: 35px;
+  font-family: sans-serif;
+}
+
+h3 {
+  color: red;
+  font-size: 30px;
+}
+
+h4 {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+h5 {
+  font-family: monospace;
+  font-size: 15px;
+  color: #33FFFC;
+  width: 50%;
+  background-color: black;
+}
+
+h6 {
+  font-style: italic;
+  margin: 0px;
+}
